@@ -1,0 +1,47 @@
+[
+
+ {
+  "name": "jose alvarez",
+  "email": "jose@gmail.com",
+  "dateBrith": "2021-03-29",
+  "address": "Olleros 1768",
+  "interests": "Videojuegos",
+  "fileavatar": "",
+  "password": "1234",
+  "confirmpass": "1234",
+  "id": 5
+ },
+ {
+  "name": "ivan",
+  "email": "ivan.rebora@hotmail.com",
+  "dateBrith": "2021-03-02",
+  "address": "Olleros 1768",
+  "interests": "Cine",
+  "fileavatar": "logInMobile.jpg",
+  "password": "1234",
+  "confirmpass": "1234",
+  "id": 8
+ },
+ {
+  "name": "martin",
+  "email": "fvranaa@gmail.com",
+  "dateBrith": "2021-05-21",
+  "address": "askks 567",
+  "interests": "Anime",
+  "fileavatar": "",
+  "password": "12345",
+  "confirmpass": "12345",
+  "id": 9
+ },
+ {
+  "name": "martin",
+  "email": "parma.marina@gmail.com",
+  "dateBrith": "2021-05-22",
+  "address": "askks 567",
+  "interests": "Cine",
+  "fileavatar": "1 (1).jpg",
+  "password": "12345",
+  "confirmpass": "12345",
+  "id": 10
+ }
+]
